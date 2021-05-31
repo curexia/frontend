@@ -1,1 +1,3 @@
-# frontend
+# Frontend
+
+Curexia's frontend
